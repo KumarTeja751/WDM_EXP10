@@ -30,3 +30,4 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1742c047-ec35-48c1-bdba-589b86437bbf" />
 
 ### Result:
+Thus, sentimental analysis for twitter data using Rapidminer is done successfully.
